@@ -87,7 +87,7 @@ curl -X POST "http://127.0.0.1:5000/predict" -H "Content-Type: application/json"
 ---
 
 ## ✨ Contributors
-- **Your Name** ([@pragatishpragatish](https://github.com/pragatishpragatish))
+- **Pragatish A M** ([@pragatishpragatish](https://github.com/pragatishpragatish))
 
 ## 📜 License
 This project is licensed under the MIT License.
