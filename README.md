@@ -74,10 +74,7 @@ curl -X POST "http://127.0.0.1:5000/predict" -H "Content-Type: application/json"
 ```
 
 ## 📈 Model Performance
-- **Accuracy**: 90% (Random Forest)
-- **Precision**: 87%
-- **Recall**: 85%
-- **F1-Score**: 86%
+- **Accuracy**: 87%
 - **Improvements**:
   - Experiment with time-series models (LSTMs)
   - Use real-time Kubernetes logs for better prediction
@@ -90,7 +87,7 @@ curl -X POST "http://127.0.0.1:5000/predict" -H "Content-Type: application/json"
 ---
 
 ## ✨ Contributors
-- **Your Name** ([@your-github](https://github.com/your-github))
+- **Your Name** ([@pragatishpragatish](https://github.com/pragatishpragatish))
 
 ## 📜 License
 This project is licensed under the MIT License.
