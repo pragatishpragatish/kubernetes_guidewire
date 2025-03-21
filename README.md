@@ -22,10 +22,6 @@ k8s_failure_prediction/
 │── notebooks/                 # Jupyter Notebooks for EDA & model training
 │   ├── data_exploration.ipynb
 │   ├── model_training.ipynb
-│── src/
-│   ├── data_preprocessing.py   # Data loading & preprocessing
-│   ├── model.py                # ML model training & evaluation
-│   ├── prediction.py           # Prediction script
 │── app.py                      # Flask API for predictions
 │── requirements.txt            # Dependencies
 │── README.md                   # Documentation
